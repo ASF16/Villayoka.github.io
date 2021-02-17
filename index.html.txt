@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+
+<meta charset="utf-8" >
+<title>VILLA YOUKA</title>
+</head>
+<body>
+<table
+border="1"
+align="center"
+rules="rows"
+style="width:60%;">
+<tr>
+<td>
+<table
+border="1"
+background="карта"
+bgcolor="#00FFFF"
+cellpadding="10"
+style="width:100%; border-radius:5px;">
+<tr>
+<th>
+<h1>   <font size="7"> Rooms for rent at Yoko Apartment  </h1> </font>
+<h3></h3> 
+</th>
+</tr>
+</table>
+<table
+border="1"
+bgcolor="#DCDCDC"
+cellpadding="10"
+style="width:100%; border-radius:5px;">
+<tr>
+<td
+rowspan="2"
+style="width:80%">
+<h2></h2>
+<p style="text-indent:20px"> <font size="5">
+Наши преимущества:Предметы первой необходимости (полотенца,простыни,мыло и туалетная бумага), кондиционер, кухня, WI-FI, бесплатные парковочные места, большой бассейн.
+<p style="text-indent:20px"> <font size="5">
+Our advantages: basic necessities (towels, sheets, soap and toilet paper), air conditioning, WI-FI, kitchen, free parking spaces, large swimming pool.  
+<p align="center"><img src="C:\Users\DELL\Desktop\asf\img/2aroom.jpg"     width="1280" height="920"> </p>
+<p align="center"><img src="C:\Users\DELL\Desktop\asf\img/2aroom2.jpg"    width="1280" height="920"> </p>
+<p align="center"><img src="C:\Users\DELL\Desktop\asf\img/2aroom3.jpg"    width="720" height="1024"> </p>
+<p align="center"><img src="C:\Users\DELL\Desktop\asf\img/2akitchen.jpg"  width="720" height="1024">  </p>
+<p align="center"><img src="C:\Users\DELL\Desktop\asf\img/2ashower.jpg"   width="720" height="1024"> </p>
+<p align="center"><img src="C:\Users\DELL\Desktop\asf\img/2ashower2.jpg"  width="720" height="1024"> </p>
+   <p style="text-indent:20px"> <font size="5">
+   Комната на 2 этаже с кухней и балконом. Цена:450$+50$ электричество.  
+   <p style="text-indent:20px"> <font size="5"> A room on the 2nd floor with a kitchen and a balcony. Price: 450$ + 50$ electricity.
+   </font> </font>
+<p align="center"><img src="C:\Users\DELL\Desktop\asf\img/3broom.jpg"     width="1280" height="920"> </p>
+<p align="center"><img src="C:\Users\DELL\Desktop\asf\img/3broom2.jpg"    width="1280" height="920"> </p>
+<p align="center"><img src="C:\Users\DELL\Desktop\asf\img/3bkitchen.jpg"    width="720" height="1024"> </p>
+<p align="center"><img src="C:\Users\DELL\Desktop\asf\img/3btoil.jpg"  width="720" height="1024">  </p>
+<p align="center"><img src="C:\Users\DELL\Desktop\asf\img/3btoil2.jpg"   width="720" height="1024"> </p>
+<p align="center"><img src="C:\Users\DELL\Desktop\asf\img/3bshower.jpg"  width="720" height="1024"> </p>
+<p style="text-indent:20px"> <font size="5">
+   Комната на 3 этаже с кухней и балконом. Цена:300$+50$ электричество.  
+   <p style="text-indent:20px"> <font size="5"> A room on the 3nd floor with a kitchen and a balcony. Price: 300$ + 50$ electricity.
+</p> </p> </p> </p>
+   <p align="center"><img src="карта.jpg"> </p>
+   <p style="text-indent:20px">bargaining is possible</p>
+</td>
+</td>
+</tr>
+<table
+border="1"
+bgcolor="#FF0000"
+height="100"
+cellpadding="10"
+style="width:100%; border-radius:5px;">
+<tr>
+<th>
+<h3>Affordable apartment close to Sosua.
+           Small Apatr-hotel.
+<p> <font size="5"> Whatsapp +18098930345 </h3> </font>
+</th>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
